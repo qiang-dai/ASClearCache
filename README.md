@@ -1,0 +1,2 @@
+# ASClearCache
+Android Studio Project
